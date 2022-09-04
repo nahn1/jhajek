@@ -5,10 +5,12 @@ Provide the required screenshots to show that tooling has been properly installe
 ## WebServer Install
 
 Screenshot from the host OS of http://192.168.33.10
+![nginx](images/nginx.png)
 
 ## Output of vagrant box list command
 
 After completing this assignment take a screenshot, power off your vagrant box, and take a screenshot of the output of the command ```vagrant box list``` and insert it here.
+![boxlist](images/boxlist.png)
 
 ## Deliverable
 
